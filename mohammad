@@ -52,7 +52,7 @@ cd $PATHTOAPP && cd ..
 
 PRIVATEKEY=""
 
-RECORD=""
+RECORD="
 
 
 
