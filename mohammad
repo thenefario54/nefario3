@@ -1,8 +1,6 @@
 aleo smart contract
  پیش نیازها 
- hsjs
-sksjsssosis
-sooss
+ 
 ----------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
